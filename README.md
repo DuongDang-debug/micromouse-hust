@@ -15,7 +15,7 @@ Source code and control logic for an autonomous Micromouse robot. This project i
 * **Closed-Loop Kinematics:** Advanced PID control system—modeled using Laplace transforms and block diagrams—to maintain accurate wall-following, minimize steady-state errors, and execute precise 90°/180° rotational maneuvers.
 
 ## 📸 Media & PCB Design
-<!-- Drag and drop your Altium 3D PCB views, schematic diagrams, or photos of the physical Micromouse here -->
+<img width="1927" height="2560" alt="image" src="https://github.com/user-attachments/assets/63b8e8f2-afd3-4fd3-83f1-618929fb3077" />
 
 ## ⚙️ Setup & Deployment
 1. Open the source code in your preferred C++ environment (e.g., Arduino IDE, STM32CubeIDE, or PlatformIO).
